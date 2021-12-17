@@ -1,0 +1,14 @@
+table th{
+    background-color: darkgreen;
+    color: white;
+    border: 1px solid green;
+}
+ td {
+    border: 1px solid green;
+ }
+ body {
+     border-style:groove ;
+     border-color: green;
+     margin-right:84%;
+     border-width: 1px;
+ }

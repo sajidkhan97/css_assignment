@@ -1,0 +1,7 @@
+div {
+    border: groove;
+    border-color: orangered;
+    outline-style: dotted;
+    outline-color: palegreen;
+    outline-width: 10px;
+}
